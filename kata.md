@@ -1,6 +1,6 @@
 # Kata Retrospective 11 - Partie 1
 
-L'idée de ce kata est d'implanter un [Lexer](https://en.wikipedia.org/wiki/Lexer) capable de transformer une chaine de caractère en un token, c-a-d un identifiant, un mot-clé, une valeur numérique, etc. Pour reconnaitre si une chaine de caractère est un des tokens définis, on utilise des expressions régulières. Le but de ce kata est plus de se focaliser sur l'API que sur l'implantation en elle même, cela tombe bien, en Java le package java.util.regex nous enlèves le poid d'avoir à ré-implantant la gestion des expressions régulières.
+L'idée de ce kata est d'implanter un [Lexer](https://en.wikipedia.org/wiki/Lexer) capable de transformer une chaine de caractère en un token, c-a-d un identifiant, un mot-clé, une valeur numérique, etc. Pour reconnaitre si une chaine de caractère est un des tokens définis, on utilise des expressions régulières. Le but de ce kata est plus de se focaliser sur l'API que sur l'implantation en elle même, cela tombe bien, en Java le package java.util.regex nous enlèves le poid d'avoir à ré-implémenter la gestion des expressions régulières.
 
 Le kata est en deux parties, suivez ce [lien pour la seconde partie](kata-part2.md).
 
